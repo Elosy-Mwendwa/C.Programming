@@ -1,6 +1,6 @@
 /*
-    Name: KELVIN KIPLIMO 
-    Reg No: CT101/G/26636/25 
+    Name: Elosy Mwendwa
+    Reg No: CT101/G/26560/25 
     Program: data_bundle.c
     Description: Allows the user to select a data bundle using a switch statement.
  */
